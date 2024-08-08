@@ -22,7 +22,6 @@ public class Solution {
          else
              total += currentVal;
      }
-
      return total;
  }
 }
