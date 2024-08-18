@@ -8,8 +8,8 @@ public class Solution {
      complement = target - nums[i];
      if (hashmap.ContainsKey(complement))
          return new[] { hashmap[complement], i };
-
-     hashmap[nums[i]] = i;
+     else
+         hashmap[nums[i]] = i;
 
  }
  return null;
