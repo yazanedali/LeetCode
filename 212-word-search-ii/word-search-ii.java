@@ -1,5 +1,5 @@
 class Solution {
-        class TrieNode{
+     class TrieNode{
         Map <Character,TrieNode> map = new HashMap<>();
         boolean isWord =false;
 
@@ -11,9 +11,9 @@ class Solution {
     boolean [][] visited;
     public List<String> findWords(char[][] board, String[] words) {
         for(String word : words)
-            insertWord(word); //insert a word into the trie
+            insertWord(word); //insert a word into the trie O(W * L)
 
-        //apply DFS to each character in the trie
+        //apply DFS to each character in the trie    O(m * n * 4^L)
         m = board.length; // rows
         n = board[0].length; //columns
         this.board = board;
