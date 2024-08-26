@@ -40,4 +40,8 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/yazanedali/LeetCode/tree/master/0347-top-k-frequent-elements) |
+## Linked List
+|  |
+| ------- |
+| [0328-odd-even-linked-list](https://github.com/yazanedali/LeetCode/tree/master/0328-odd-even-linked-list) |
 <!---LeetCode Topics End-->
