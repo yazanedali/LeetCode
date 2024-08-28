@@ -58,4 +58,16 @@
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/yazanedali/LeetCode/tree/master/0295-find-median-from-data-stream) |
+## Math
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/yazanedali/LeetCode/tree/master/0070-climbing-stairs) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/yazanedali/LeetCode/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/yazanedali/LeetCode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
