@@ -7,12 +7,14 @@
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/yazanedali/LeetCode/tree/master/0035-search-insert-position) |
+| [0300-longest-increasing-subsequence](https://github.com/yazanedali/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/yazanedali/LeetCode/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/yazanedali/LeetCode/tree/master/0347-top-k-frequent-elements) |
 ## Binary Search
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/yazanedali/LeetCode/tree/master/0035-search-insert-position) |
+| [0300-longest-increasing-subsequence](https://github.com/yazanedali/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 ## Hash Table
 |  |
 | ------- |
@@ -67,6 +69,7 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/yazanedali/LeetCode/tree/master/0070-climbing-stairs) |
+| [0300-longest-increasing-subsequence](https://github.com/yazanedali/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/yazanedali/LeetCode/tree/master/0322-coin-change) |
 ## Memoization
 |  |
