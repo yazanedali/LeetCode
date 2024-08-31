@@ -7,6 +7,7 @@
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/yazanedali/LeetCode/tree/master/0035-search-insert-position) |
+| [0139-word-break](https://github.com/yazanedali/LeetCode/tree/master/0139-word-break) |
 | [0300-longest-increasing-subsequence](https://github.com/yazanedali/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/yazanedali/LeetCode/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/yazanedali/LeetCode/tree/master/0347-top-k-frequent-elements) |
@@ -18,6 +19,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0139-word-break](https://github.com/yazanedali/LeetCode/tree/master/0139-word-break) |
 | [0347-top-k-frequent-elements](https://github.com/yazanedali/LeetCode/tree/master/0347-top-k-frequent-elements) |
 ## Divide and Conquer
 |  |
@@ -69,14 +71,24 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/yazanedali/LeetCode/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/yazanedali/LeetCode/tree/master/0139-word-break) |
 | [0300-longest-increasing-subsequence](https://github.com/yazanedali/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/yazanedali/LeetCode/tree/master/0322-coin-change) |
 ## Memoization
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/yazanedali/LeetCode/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/yazanedali/LeetCode/tree/master/0139-word-break) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/yazanedali/LeetCode/tree/master/0322-coin-change) |
+## String
+|  |
+| ------- |
+| [0139-word-break](https://github.com/yazanedali/LeetCode/tree/master/0139-word-break) |
+## Trie
+|  |
+| ------- |
+| [0139-word-break](https://github.com/yazanedali/LeetCode/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
