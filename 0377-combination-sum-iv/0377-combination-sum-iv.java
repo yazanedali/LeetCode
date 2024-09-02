@@ -4,6 +4,7 @@ class Solution {
         dp[0] = 1;
 
         for (int i = 1; i <= target; i++){
+            dp[i] = 0;
             for (int c : nums){
                 if (i - c >= 0) 
                     dp[i] += dp[i - c];
