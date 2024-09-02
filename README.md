@@ -69,10 +69,12 @@
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/yazanedali/LeetCode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/yazanedali/LeetCode/tree/master/0070-climbing-stairs) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/yazanedali/LeetCode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/yazanedali/LeetCode/tree/master/0070-climbing-stairs) |
 | [0091-decode-ways](https://github.com/yazanedali/LeetCode/tree/master/0091-decode-ways) |
 | [0139-word-break](https://github.com/yazanedali/LeetCode/tree/master/0139-word-break) |
@@ -99,4 +101,8 @@
 |  |
 | ------- |
 | [0139-word-break](https://github.com/yazanedali/LeetCode/tree/master/0139-word-break) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/yazanedali/LeetCode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
