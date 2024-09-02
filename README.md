@@ -74,6 +74,7 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/yazanedali/LeetCode/tree/master/0070-climbing-stairs) |
+| [0091-decode-ways](https://github.com/yazanedali/LeetCode/tree/master/0091-decode-ways) |
 | [0139-word-break](https://github.com/yazanedali/LeetCode/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/yazanedali/LeetCode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/yazanedali/LeetCode/tree/master/0213-house-robber-ii) |
@@ -92,6 +93,7 @@
 ## String
 |  |
 | ------- |
+| [0091-decode-ways](https://github.com/yazanedali/LeetCode/tree/master/0091-decode-ways) |
 | [0139-word-break](https://github.com/yazanedali/LeetCode/tree/master/0139-word-break) |
 ## Trie
 |  |
