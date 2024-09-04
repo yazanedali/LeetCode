@@ -25,6 +25,7 @@
 | ------- |
 | [0139-word-break](https://github.com/yazanedali/LeetCode/tree/master/0139-word-break) |
 | [0347-top-k-frequent-elements](https://github.com/yazanedali/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0355-design-twitter](https://github.com/yazanedali/LeetCode/tree/master/0355-design-twitter) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -39,6 +40,7 @@
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/yazanedali/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/yazanedali/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0355-design-twitter](https://github.com/yazanedali/LeetCode/tree/master/0355-design-twitter) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -55,6 +57,7 @@
 |  |
 | ------- |
 | [0328-odd-even-linked-list](https://github.com/yazanedali/LeetCode/tree/master/0328-odd-even-linked-list) |
+| [0355-design-twitter](https://github.com/yazanedali/LeetCode/tree/master/0355-design-twitter) |
 ## Two Pointers
 |  |
 | ------- |
@@ -63,6 +66,7 @@
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/yazanedali/LeetCode/tree/master/0295-find-median-from-data-stream) |
+| [0355-design-twitter](https://github.com/yazanedali/LeetCode/tree/master/0355-design-twitter) |
 ## Data Stream
 |  |
 | ------- |
